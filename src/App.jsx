@@ -50,7 +50,7 @@ function App() {
               Orange
             </button>
             <button
-              onClick={() => setcolor("#EBC5C6")}
+              onClick={() => setcolor("#EBC5C5")}
               className=" outline-none  bg-[#EBC5C5] rounded-full px-2 shadow-xl text-black"
             >
               Red
