@@ -23,4 +23,4 @@ The Pastel Color Rainbow App is a simple React-based web application that allows
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/kratin01/Background-changer.git
