@@ -1,8 +1,26 @@
-# React + Vite
+# Pastel Color Rainbow App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![App Screenshot](Screenshot.png)
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The Pastel Color Rainbow App is a simple React-based web application that allows users to change the background color of the page by selecting from a range of beautiful pastel colors. It's a fun and interactive way to explore and enjoy different color combinations.
+
+## Features
+
+- Change the background color of the page with a click of a button.
+- Choose from a variety of pastel colors.
+- User-friendly and visually appealing interface.
+
+## Technologies Used
+
+- React
+- JavaScript
+- CSS
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/your-repo-name.git
