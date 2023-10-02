@@ -16,7 +16,7 @@ The Pastel Color Rainbow App is a simple React-based web application that allows
 
 - React
 - JavaScript
-- CSS
+- Tailwind CSS
 
 ## Installation
 
